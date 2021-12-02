@@ -13,7 +13,7 @@ class TrafficLight:
             elif i == 1:
                 sleep(5)
             elif i == 2:
-                sleep(4)
+                sleep(2)
             i += 1
 
 
